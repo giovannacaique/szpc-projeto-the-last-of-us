@@ -15,7 +15,7 @@ Este repositório contém uma página da web que destaca a série distópica "Th
 
 1. Clone este repositório em seu ambiente local:
    ```bash
-   git clone https://github.com/giovannacaique/szpc-projeto-the-last-of-us.git
+   git clone https://github.com/SEU_USERNAME/szpc-projeto-the-last-of-us.git
    ```
 
 2. Abra o arquivo `index.html` em um navegador web para visualizar a página.
